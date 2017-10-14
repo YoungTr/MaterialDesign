@@ -319,6 +319,8 @@ Android Studio 中定义
 
 图标应方便识别并在你的 UI 中起到解释的作用，最好在常见任务中使用平台图标,如搜索或者分享，因为用户对此非常熟悉。
 
+![image](https://youngtr.github.io/images/user-icon.png)
+
 [关于创建图标的更多信息](https://www.google.com/design/spec/style/icons.html)
 
 [materialdesignicons.com](https://materialdesignicons.com/)
